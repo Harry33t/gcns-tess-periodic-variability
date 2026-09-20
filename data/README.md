@@ -5,6 +5,10 @@ Table A1 of the paper: the complete catalogue of all 24 periodic-variability
 candidates, comprising the 14 primary (multi-sector) and 10 secondary
 (strong-single-sector) candidates. One row per target, 24 rows.
 
+Source: F. Li and G. Huang, Contributions of the Astronomical Observatory
+Skalnate Pleso, vol. 56, no. 4, 2026, in press. See the repository README for
+the full citation.
+
 ## Columns
 
 | Column | Unit | Description |

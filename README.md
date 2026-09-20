@@ -2,7 +2,8 @@
 
 This repository contains the compact, reproducible core of the analysis used
 for *TESS periodic variability of kinematically selected nearby high-velocity
-dwarfs from GCNS and Gaia DR3*.
+dwarfs from GCNS and Gaia DR3*, accepted for publication in Contributions of
+the Astronomical Observatory Skalnate Pleso (see Citation below).
 
 The release intentionally contains only the five scientific pipeline stages:
 
@@ -52,6 +53,16 @@ the fixed injection grid.
 Table A1 of the paper: the full catalogue of all 24 periodic-variability
 candidates (14 primary, 10 secondary), one row per target. Column definitions
 are in `data/README.md`.
+
+## Citation
+
+If you use this code or the candidate catalogue, please cite:
+
+> F. Li and G. Huang, *TESS periodic variability of kinematically selected
+> nearby high-velocity dwarfs from GCNS and Gaia DR3*, Contributions of the
+> Astronomical Observatory Skalnate Pleso, vol. 56, no. 4, 2026, in press.
+
+The DOI will be added here once it has been assigned by the journal.
 
 ## Data sources
 
