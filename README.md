@@ -46,6 +46,13 @@ $v_{\rm LSR}\geq180$ km s$^{-1}$, the 0.1--13 d Lomb--Scargle search,
 spacecraft-timescale screening, 10 per cent cross-sector period agreement, and
 the fixed injection grid.
 
+## Published data table
+
+`data/tableA1_periodic_candidates.csv` is the machine-readable counterpart of
+Table A1 of the paper: the full catalogue of all 24 periodic-variability
+candidates (14 primary, 10 secondary), one row per target. Column definitions
+are in `data/README.md`.
+
 ## Data sources
 
 - Gaia Catalogue of Nearby Stars (GCNS), VizieR catalogue `J/A+A/649/A6`
